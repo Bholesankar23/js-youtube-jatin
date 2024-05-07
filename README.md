@@ -1,2 +1,2 @@
-# js-youtube-jatin
-code repo for java script by hitesh chuadhary
+# js-youtube-by-hitesh-sir
+first repo of javascript by hitesh chaudhary
